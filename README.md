@@ -1,13 +1,13 @@
 # Angular, full CRUD, Material, Parent-Child, Json-server
 ## if you choose to clone this templete follow these steps:
 open the first terminal:
-- git clone https://github.com/orenzylber/Angular_FullCRUD_Material-_ParentChild_JsonServer_Basic.git
-- cd 
+- git clone https://github.com/orenzylber/-Angular_PartCRUD_Material-_ParentChild_JsonServer_Basic.git
+- cd -Angular_PartCRUD_Material-_ParentChild_JsonServer_Basic
 - npm install
 - ng serve -o
 
 open the second terminal:
-- cd 
+- cd -Angular_PartCRUD_Material-_ParentChild_JsonServer_Basic
 - json-server --watch db.json
 
 ### the default db.json (under src) is updated with the todos data.
